@@ -3,92 +3,60 @@ require 'test_helper'
 class ApiTest < Test::Unit::TestCase
 
   def setup
-    @api = BigCommerce::Api.new({:store_url => "https://store-12345.mybigcommerce.com", :username => "test", :api_key => "12345"})
-    FakeWeb.register_uri(:get, %r|https://test:12345@store-12345.mybigcommerce.com/api/v2/orders|, :body => load_fixture('order'), :status => 200, :content_type => "text/json")
-    FakeWeb.register_uri(:get, %r|https://test:12345@store-12345.mybigcommerce.com/api/v2/time|, :body => load_fixture('time'), :status => 200, :content_type => "text/json")
-
-    @rfc2822_datetime = "Tue, 13 Mar 2012 12:45:26 +0000"
-    @rfc2822_date = "Mon, 12 Mar 2012 00:00:00 +0000"
-
+    @store_url = "http://example.volusion.com"
+    @configuration = {:store_url => @store_url, :username  => 'volusion@example.com', :encrypted_password   => '12345'}
+    @volusion_api = Volusion::Api.new @configuration
   end
 
-  def teardown
-    FakeWeb.allow_net_connect = false
+  def test_prepare_select_data_for_array
+    assert 'p.ProductName, p.ProductUrl', @volusion_api.send(:prepare_select_fields, ['p.ProductName', 'p.ProductUrl'])
   end
 
-  def test_to_rfc2822
-    assert_equal @rfc2822_datetime, @api.to_rfc2822(DateTime.parse('2012-03-13 12:45:26 +0000'))
-    assert_equal @rfc2822_date, @api.to_rfc2822(DateTime.parse('2012-03-12 00:00:00 +0000'))
+  def test_prepare_select_data_for_string
+    assert 'p.ProductName, p.ProductUrl', @volusion_api.send(:prepare_select_fields, 'p.ProductName, p.ProductUrl')
   end
 
-  def test_get_time
-    @api.connection.expects(:get).with("/time")
-    @api.get_time
+  def test_prepare_select_data_should_fail_for_invalid_input_type
+    assert_raise Volusion::Error::InvalidSelectArgument do
+      @volusion_api.send(:prepare_select_fields, 5)
+    end
   end
 
-  def test_get_order
-    @api.connection.expects(:get).with("/orders/100")
-    @api.get_order(100)
+  def test_raises_exception_for_invalid_export_object
+    assert_raise NoMethodError do
+      @volusion_api.get_friends :invalid_object
+    end
   end
 
-  def test_get_orders
-    @api.connection.expects(:get).with("/orders", {})
-    @api.get_orders
+  def test_ping_for_valid_credentials
+    assert_nothing_raised do
+      @volusion_api.ping
+    end
   end
 
-  def test_get_orders_with_pagination
-    @api.connection.expects(:get).with("/orders", {:page=>2})
-    @api.get_orders(:page => 2)
+  def test_ping_raises_exception_for_invalid_credentials
+    wrong_configuration = {:store_url => "http://www.invalidstoreurl.com", :username  => 'invalid_username', :encrypted_password   => 'invalid_encrypted_password'}
+    wrong_cred_api = Volusion::Api.new wrong_configuration
+    assert_raise Volusion::Error::InvalidCredentials do
+      wrong_cred_api.ping
+    end
   end
 
-  def test_get_orders_with_limit
-    @api.connection.expects(:get).with("/orders", {:limit => 10})
-    @api.get_orders(:limit => 10)
+  def test_default_select_fields_are_all_fields
+    response = @volusion_api.get_products
+    assert_equal 72, response['Products'].count
   end
 
-  def test_get_orders_with_pagination_and_limit
-    @api.connection.expects(:get).with("/orders", {:limit=>10, :page=>2})
-     @api.get_orders(:limit => 10, :page => 2)
+  def test_should_raise_error_for_multiple_conditions
+    assert_raise Volusion::Error::NotSupportedError do
+      response = @volusion_api.get_products({:conditions => {"field1" => "value1", "field2" => "value2"}})
+    end
   end
 
-  def test_get_orders_by_date_with_pagination
-    # RFC 2822 format is required
-    @api.connection.expects(:get).with("/orders", {:min_date_created => CGI::escape(@rfc2822_datetime), :page => 2})
-
-    # Test DateTime
-    @api.get_orders_by_date(DateTime.parse('2012-03-13 12:45:26 GMT'), :page => 2)
-
+  def test_get_objects_should_raise_exception_on_invalid_object
+    assert_raise Volusion::Error::InvalidExportObject do
+      @volusion_api.send(:get_objects, "Nothing")
+    end
   end
-
-  def test_get_orders_by_date_with_date_time
-    # RFC 2822 format is required
-    @api.connection.expects(:get).with("/orders", {:min_date_created => CGI::escape(@rfc2822_datetime)})
-
-    # Test DateTime
-    @api.get_orders_by_date(DateTime.parse('2012-03-13 12:45:26 GMT'))
-
-  end
-
-  def test_get_orders_by_date_with_date
-    # RFC 2822 format is required
-    @api.connection.expects(:get).with("/orders", {:min_date_created => CGI::escape(@rfc2822_date)})
-
-    # Test Date
-    @api.get_orders_by_date(Date.parse("2012-03-12"))
-
-  end
-
-  def test_get_orders_by_date_with_string
-    # RFC 2822 format is required
-    @api.connection.expects(:get).with("/orders", {:min_date_created=> CGI::escape(@rfc2822_datetime)})
-    @api.connection.expects(:get).with("/orders", {:min_date_created=> CGI::escape(@rfc2822_date)})
-
-    # Test String
-    @api.get_orders_by_date('2012-03-13 12:45:26 GMT')
-    @api.get_orders_by_date('2012-03-12')
-
-
-  end
-
 
 end

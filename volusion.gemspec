@@ -12,5 +12,7 @@ Gem::Specification.new do |s|
   s.has_rdoc = false
   s.authors  = ["Yotpo/omri@yotpo"]
   s.files = ["LICENSE", "Rakefile", "README.md", "volusion.gemspec"] + Dir['**/*.rb'] + Dir['**/*.crt']
-  s.add_dependency('xml-simple')
+  s.add_dependency 'multi_xml', '~> 0.5.1'
+  s.add_development_dependency "fakeweb"
+  s.add_development_dependency "mocha"
 end

@@ -1,4 +1,4 @@
-#require 'lib/bigcommerce'
+require './lib/volusion'
 require 'rake/testtask'
 require 'bundler'
 Bundler::GemHelper.install_tasks

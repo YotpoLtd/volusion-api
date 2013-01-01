@@ -1,15 +1,17 @@
 require 'rubygems'
 require 'test/unit'
+require 'volusion'
 require 'fakeweb'
-require 'mocha'
-require "bigcommerce"
 
-FakeWeb.allow_net_connect = false
 
 class Test::Unit::TestCase
 
+
   def load_fixture(name)
-    File.read(File.dirname(__FILE__) + "/fixtures/#{name}.json")
+    File.read(File.dirname(__FILE__) + "/fixtures/#{name}.xml")
   end
 
+  include FakeWeb
+
 end
+

@@ -13,16 +13,8 @@ module Volusion
       @configuration[:username] = username
     end
 
-    def api_key=(api_key)
-      @configuration[:api_key] = api_key
-    end
-
-    def verify_peer=(verify)
-      @configuration[:verify_peer] = verify
-    end
-
-    def ca_file=(path)
-      @configuration.ca_file = path
+    def encrypted_password=(encrypted_password)
+      @configuration[:encrypted_password] = encrypted_password
     end
 
     def get(path, params=nil)
@@ -43,27 +35,21 @@ module Volusion
 
     def request(method, path, body = nil, params = {})
 
-      url = @configuration[:store_url] + '/api/v2' + path
+      url = "#{@configuration[:store_url]}/net/WebService.aspx"
+
+      login_cred = {"Login" => @configuration[:username], "EncryptedPassword" => @configuration[:encrypted_password]}
+      params = params.nil? ? login_cred : params.merge(login_cred)
 
       param_string = hash_to_params(params) unless params.nil? || params.empty?
 
       unless (param_string.nil? || param_string.empty?)
-        uri = URI.parse("#{url}?#{param_string}")
+        uri = URI.parse(URI.escape("#{url}?#{param_string}"))
       else
-        uri = URI.parse(url)
+        uri = URI.parse(URI.escape(url))
       end
-
 
       http = Net::HTTP.new(uri.host, uri.port)
-      http.use_ssl = true
-
-      if @configuration.has_key?(:verify_peer) && @configuration[:verify_peer]
-        http.verify_mode = OpenSSL::SSL::VERIFY_PEER
-      else
-        http.verify_mode = OpenSSL::SSL::VERIFY_NONE
-      end
-
-      http.ca_file = @configuration[:ca_path] if @configuration.has_key?(:ca_path)
+      http.use_ssl = (uri.scheme == 'https') ? true : false
 
       request = case method
                   when :get then
@@ -76,15 +62,22 @@ module Volusion
                     Net::HTTP::Delete.new(uri.request_uri)
                 end
 
-      request.basic_auth(@configuration[:username], @configuration[:api_key])
-      request.add_field 'Accept', 'application/json'
-      request.add_field 'Content-Type', 'application/json'
+      request.add_field 'Accept', 'application/xml'
+      request.add_field 'Content-Type', 'application/xml'
 
-      response = http.request(request)
+      response = nil
+      begin
+        response = http.request(request)
+      rescue
+        raise Error::ConnectionError
+      end
+
 
       return case response
                when Net::HTTPSuccess, Net::HTTPRedirection
-                 JSON.parse(response.body || "{}")
+                 raise Error::InvalidCredentials if response.body.empty?
+                 xml_result = MultiXml.parse(response.body)
+                 xml_result ? xml_result["xmldata"] : nil
                else
                  false
              end
@@ -92,16 +85,9 @@ module Volusion
 
     def hash_to_params(hash)
       return nil if hash.nil? || hash.empty?
-
-      # convert the hash to URL params
       return hash.map {|pair| pair.join("=")}.join("&")
-
 
     end
   end
 
-
-  class HttpError < Exception
-
-  end
 end

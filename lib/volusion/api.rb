@@ -1,11 +1,10 @@
-module Volusion 
+module Volusion
   class Api
 
     def initialize(configuration={})
       @connection = Connection.new(configuration)
     end
 
-    # Added getter to ensure configuration is correct
     def connection
       @connection
     end
@@ -18,93 +17,47 @@ module Volusion
       @connection.username = username
     end
 
-    def api_key=(api_key)
-      @connection.api_key = api_key
+    def encrypted_password(encrypted_password)
+      @connection.encrypted_password = encrypted_password
     end
 
-    def verify_peer=(verify)
-      @connection.verify_peer = verify
+    def method_missing(method, args=nil)
+      super unless (objects  = method.to_s.match /get_(orders|products|customers)$/)
+      get_objects objects[1].capitalize, args
     end
 
-    def ca_file=(path)
-      @connection.ca_file = path
-    end
-
-    # Returns the date formatted as
-    # RFC 2822 string
-    def to_rfc2822(datetime)
-      datetime.strftime("%a, %d %b %Y %H:%M:%S %z")
-    end
-
-    def get_time
-      @connection.get '/time'
-    end
-
-    def get_products(params={})
-      @connection.get '/products'
-    end
-
-    def get_product(id)
-      @connection.get '/products/' + id.to_s
-    end
-
-    def get_categories
-      @connection.get '/categories'
-    end
-
-    def get_category(id)
-      @connection.get '/categories/' + id.to_s
-    end
-
-    def get_orders(params={})
-      @connection.get('/orders', params)
-    end
-
-    def get_orders_by_date(date, params={})
-      if date.is_a?(String)
-        date = DateTime.parse(date)
-      end
-      date = to_rfc2822(date)
-      @connection.get('/orders', params.merge!(:min_date_created => CGI::escape(date)))
-    end
-
-    def get_orders_count
-      get_count @connection.get '/orders/count'
-    end
-
-    def get_order(id)
-      @connection.get '/orders/' + id.to_s
-    end
-
-    def get_order_products(id)
-      @connection.get '/orders/' + id.to_s + '/products'
-    end
-
-    def get_customers
-      @connection.get '/customers'
-    end
-
-    def get_customer(id)
-      @connection.get '/customers/' + id.to_s
+    def ping
+      return get_products ({:conditions => {"p.ProductID" => "NULL"}})
     end
 
 
-    def get_product_images(id)
-      @connection.get '/products/' + id.to_s + '/images'
-    end
     private
 
-    def get_count(result)
-      result["count"]
+    def get_objects(objects, args=nil)
+      raise Error::InvalidExportObject unless ["Orders", "Products", "Customers"].include? objects
+      params = {"EDI_Name" => "Generic\\#{objects}"}
+      params["SELECT_Columns"] = "*"
+      if args
+        params["SELECT_Columns"] = prepare_select_fields(args[:select_fields]) if args[:select_fields]
+
+        if (conditions = args[:conditions])
+          #cuurently volusion api supports only one where condition
+          raise Error::NotSupportedError if conditions.class != Hash or conditions.size != 1
+          params["WHERE_Column"] = conditions.keys.first
+          params["WHERE_Value"] = conditions.values.first
+        end
+      end
+      @connection.get(nil, params)
     end
 
-    def get_resource(result)
-
+    def prepare_select_fields(fields)
+        if fields.class == Array
+          return fields.join(',')
+        elsif fields.class == String
+          return fields
+        else
+          raise Error::InvalidSelectArgument
+        end
+      end
     end
-
-    def get_collection(result)
-
-    end
-
-  end
 end
