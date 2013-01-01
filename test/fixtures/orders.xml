@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmldata>
+  <Orders>
+    <OrderID>1</OrderID>
+    <CustomerID>1</CustomerID>
+    <IsGTSOrder>False</IsGTSOrder>
+    <OrderDate>12/13/2012 10:17:00 AM</OrderDate>
+    <PaymentMethodID>2</PaymentMethodID>
+    <ShippingMethodID>103</ShippingMethodID>
+    <OrderDetails>
+      <OrderDetailID>1</OrderDetailID>
+      <OrderID>1</OrderID>
+      <ProductCode>ah-chairbamboo</ProductCode>
+      <ProductID>37348</ProductID>
+      <ProductName>Modern Bamboo Chair</ProductName>
+    </OrderDetails>
+  </Orders>
+  <Orders>
+    <OrderID>2</OrderID>
+    <CustomerID>3</CustomerID>
+    <IsGTSOrder>False</IsGTSOrder>
+    <OrderDate>12/13/2012 10:23:00 AM</OrderDate>
+    <PaymentMethodID>2</PaymentMethodID>
+    <ShippingMethodID>104</ShippingMethodID>
+    <OrderDetails>
+      <OrderDetailID>2</OrderDetailID>
+      <OrderID>2</OrderID>
+      <ProductCode>aroma</ProductCode>
+      <ProductID>37354</ProductID>
+      <ProductName>Aromatherapy Oils</ProductName>
+    </OrderDetails>
+  </Orders>
+  <Orders>
+    <OrderID>3</OrderID>
+    <CustomerID>3</CustomerID>
+    <IsGTSOrder>False</IsGTSOrder>
+    <OrderDate>12/13/2012 10:25:00 AM</OrderDate>
+    <PaymentMethodID>2</PaymentMethodID>
+    <ShippingMethodID>104</ShippingMethodID>
+    <OrderDetails>
+      <OrderDetailID>3</OrderDetailID>
+      <OrderID>3</OrderID>
+      <ProductCode>ah-chest</ProductCode>
+      <ProductID>37349</ProductID>
+      <ProductName>3-Drawer Chest</ProductName>
+    </OrderDetails>
+  </Orders>
+  <Orders>
+    <OrderID>4</OrderID>
+    <CustomerID>4</CustomerID>
+    <IsGTSOrder>False</IsGTSOrder>
+    <OrderDate>12/25/2012 4:29:00 AM</OrderDate>
+    <PaymentMethodID>2</PaymentMethodID>
+    <ShippingMethodID>104</ShippingMethodID>
+    <OrderDetails>
+      <OrderDetailID>4</OrderDetailID>
+      <OrderID>4</OrderID>
+      <ProductCode>MacFRC</ProductCode>
+      <ProductID>37346</ProductID>
+      <ProductName>French Macarons</ProductName>
+    </OrderDetails>
+  </Orders>
+  <Orders>
+    <OrderID>5</OrderID>
+    <CustomerID>5</CustomerID>
+    <IsGTSOrder>False</IsGTSOrder>
+    <OrderDate>12/25/2012 4:58:00 AM</OrderDate>
+    <PaymentMethodID>2</PaymentMethodID>
+    <ShippingMethodID>104</ShippingMethodID>
+    <OrderDetails>
+      <OrderDetailID>5</OrderDetailID>
+      <OrderID>5</OrderID>
+      <ProductCode>ah-chairbamboo</ProductCode>
+      <ProductID>37348</ProductID>
+      <ProductName>Modern Bamboo Chair</ProductName>
+    </OrderDetails>
+  </Orders>
+  <Orders>
+    <OrderID>6</OrderID>
+    <CustomerID>6</CustomerID>
+    <IsGTSOrder>False</IsGTSOrder>
+    <OrderDate>12/25/2012 6:23:00 AM</OrderDate>
+    <PaymentMethodID>2</PaymentMethodID>
+    <ShippingMethodID>104</ShippingMethodID>
+    <OrderDetails>
+      <OrderDetailID>6</OrderDetailID>
+      <OrderID>6</OrderID>
+      <ProductCode>aroma</ProductCode>
+      <ProductID>37354</ProductID>
+      <ProductName>Aromatherapy Oils</ProductName>
+    </OrderDetails>
+  </Orders>
+  <Orders>
+    <OrderID>7</OrderID>
+    <CustomerID>6</CustomerID>
+    <IsGTSOrder>False</IsGTSOrder>
+    <OrderDate>12/25/2012 6:31:00 AM</OrderDate>
+    <PaymentMethodID>2</PaymentMethodID>
+    <ShippingMethodID>104</ShippingMethodID>
+    <OrderDetails>
+      <OrderDetailID>7</OrderDetailID>
+      <OrderID>7</OrderID>
+      <ProductCode>ah-pictframe</ProductCode>
+      <ProductID>37352</ProductID>
+      <ProductName>Picture Frame</ProductName>
+    </OrderDetails>
+  </Orders>
+</xmldata>

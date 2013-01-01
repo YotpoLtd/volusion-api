@@ -1,0 +1,2663 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xmldata>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>114</LastModBy>
+    <LastModified>6/2/2011 4:43:00 PM</LastModified>
+    <ProductCode>GFT</ProductCode>
+    <ProductID>37316</ProductID>
+    <ProductName>Gift Certificate</ProductName>
+    <ProductDescription>Give the perfect gift. Gift Certificates ensure that your special person gets the perfect gift. You have the option to have gift certificates sent via email or regular mail.</ProductDescription>
+    <ProductDescriptionShort>Give the perfect gift. Gift Certificates ensure that your special person gets the perfect gift.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>Y</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>Gift Certificate</METATAG_Description>
+    <METATAG_Title>Gift Certificate</METATAG_Title>
+    <Oversized>N</Oversized>
+    <Photo_AltText>Gift Certificate</Photo_AltText>
+    <ProductNameShort>Gift Certificate</ProductNameShort>
+    <ProductPrice>55.0000</ProductPrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <METATAG_Keywords>Gift Certificate</METATAG_Keywords>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HomePage_Section>1</HomePage_Section>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 11:53:00 AM</LastModified>
+    <ProductCode>BB-soap</ProductCode>
+    <ProductID>37338</ProductID>
+    <ProductName>Olive Oil Soap</ProductName>
+    <ProductDescription>For centuries, scholars have known the health and beauty benefits of olive oil. You can now enjoy these same perks without the greasy feeling by using this all-natural soap made from olive oil. Instead of drying out your skin at the expense of being clean, the hand-milled ingredients of this soap will keep your skin feeling moisturized and rejuvenated. These soaps are available in three individual scents, including Green Tea, Milk &amp; Honey, and Chamomile. Or, buy all three as the perfect gift set!</ProductDescription>
+    <ProductDescriptionShort>For centuries, scholars have known the health and beauty benefits of olive oil. You can now enjoy these same perks without the greasy feeling by using this all-natural soap made from olive oil.  </ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>Y</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductManufacturer>Aroma</ProductManufacturer>
+    <ProductPrice>8.0000</ProductPrice>
+    <ProductWeight>0.25</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SalePrice>6.0000</SalePrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <TaxableProduct>Y</TaxableProduct>
+    <TechSpecs>Organic olive oil</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 1:24:00 PM</LastModified>
+    <ProductCode>GF-honey</ProductCode>
+    <ProductID>37339</ProductID>
+    <ProductName>Local Wildflower Honey</ProductName>
+    <ProductDescription>Harvested deep in the heart of Texas, City Market's Local Wildflower Honey is the best-kept gourmet secret of Austin. Use this honey anywhere to add a little sweetness or as a natural alternative to over the counter allergy medication. Take your pick from our cute 4oz jar, or stock up for your sugar cravings with our highly popular 24oz option. Whichever you decide, rest assured that you'll receive the freshest batch of flavorful honey, straight from the beautiful landscapes of the Texas Hill Country.</ProductDescription>
+    <ProductDescriptionShort>Harvested deep in the heart of Texas, City Market's Local Wildflower Honey is the best-kept gourmet secret of Austin. Use this honey anywhere to add a little sweetness or as a natural alternative to over the counter allergy medication. </ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>Y</Hide_When_OutOfStock>
+    <Hide_YouSave>Y</Hide_YouSave>
+    <METATAG_Description>Local Honey</METATAG_Description>
+    <METATAG_Title>Local Honey</METATAG_Title>
+    <Oversized>N</Oversized>
+    <Photo_AltText>Local Honey</Photo_AltText>
+    <ProductNameShort>Local Honey</ProductNameShort>
+    <ProductPrice>8.0000</ProductPrice>
+    <SalePrice>6.0000</SalePrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <METATAG_Keywords>Local Honey</METATAG_Keywords>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 11:40:00 AM</LastModified>
+    <ProductCode>GF-malbec</ProductCode>
+    <ProductID>37340</ProductID>
+    <ProductName>Malbec 2008</ProductName>
+    <ProductDescription>Organically grown in our City Market vineyard, these luscious grapes make the perfect Malbec for any dinner party or night of relaxation. This wine, aged since 2008, provides the classic flavors of a traditional Malbec with a surprise hint of cherry. Your middle palette will be brought to life with this satfisfying treat. Try pairing this delectable wine with equally bold flavors, such as a chile-rubbed steak or tenderloin to give yourself and your guests the ultimate taste of elegance.</ProductDescription>
+    <ProductDescriptionShort>Organically grown in our City Market vineyard, these luscious grapes make the perfect Malbec for any dinner party or night of relaxation. This wine, aged since 2008, provides the classic flavors of a traditional Malbec with a surprise hint of cherry.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>Y</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>Malbec 2008</METATAG_Description>
+    <METATAG_Title>Malbec 2008</METATAG_Title>
+    <Oversized>N</Oversized>
+    <Photo_AltText>Malbec 2008</Photo_AltText>
+    <ProductNameShort>Malbec 2008</ProductNameShort>
+    <ProductPrice>8.0000</ProductPrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <METATAG_Keywords>Malbec 2008</METATAG_Keywords>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HomePage_Section>1</HomePage_Section>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 11:02:00 AM</LastModified>
+    <ProductCode>GF-olives</ProductCode>
+    <ProductID>37341</ProductID>
+    <ProductName>Olives</ProductName>
+    <ProductDescription>Whether you like it shaken or stirred, these olives will take your martini to a whole new level of luxury. Or, if you prefer to have them as a snack straight out of the jar, these perfectly seasoned delights will pop in your mouth. Hand-picked directly from our own trees at City Market, these organic olives are sure to delight. For a healthy lunch, throw a few of these gems on a simple salad for a quick and easy burst of flavor.</ProductDescription>
+    <ProductDescriptionShort>Whether you like it shaken or stirred, these olives will take your martini to a whole new level of luxury. Or, if you prefer to have them as a snack straight out of the jar, these perfectly seasoned delights will pop in your mouth.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>Y</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>Olives</METATAG_Description>
+    <METATAG_Title>Olives</METATAG_Title>
+    <Oversized>N</Oversized>
+    <Photo_AltText>Olives</Photo_AltText>
+    <ProductNameShort>Olives</ProductNameShort>
+    <ProductPrice>8.0000</ProductPrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <METATAG_Keywords>Olives</METATAG_Keywords>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HomePage_Section>1</HomePage_Section>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 10:36:00 AM</LastModified>
+    <ProductCode>HC-flatiron</ProductCode>
+    <ProductID>37342</ProductID>
+    <ProductName>Premium Flat Iron</ProductName>
+    <ProductDescription>Straighten your unruly hair without the hassle with this first-class flat iron. Kiss your kinks, curls and snarls goodbye and give a warm welcome to healthy, shiny hair. This iron heats to 200&amp;#176;F and includes a 10-year limited warranty to keep you looking classy for years to come. Take your pick of two fierce colors, black or pink, and even add a personal touch by engraving your name or message right on the iron! Don't let your friends borrow this one – they'll never want to give it back!</ProductDescription>
+    <ProductDescriptionShort>Straighten your unruly hair without the hassle with this first-class flat iron. Kiss your kinks, curls and snarls goodbye and give a warm welcome to healthy, shiny hair. This iron heats to 200&amp;#176;F and includes a 10-year limited warranty to keep you looking classy for years to come.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>90.0000</ProductPrice>
+    <ProductWeight>4</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SalePrice>80.0000</SalePrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <ProductFeatures>Professional grade model
+      Ergonomic design
+      Flash quick heating
+      15  Heat settings
+      Swivel cord</ProductFeatures>
+    <TechSpecs>Wipe clean with warm damp cloth while iron is off.</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 10:11:00 AM</LastModified>
+    <ProductCode>HC-hairdryer</ProductCode>
+    <ProductID>37343</ProductID>
+    <ProductName>Tourmaline Ionic Hair Dryer 1875 Watt</ProductName>
+    <ProductDescription>Kiss your old hair dryer goodbye and get out the front door faster with this innovative, high-powered hair dryer. Its advanced technology converts heat into infrared energy, which is proven to dry hair up to &lt;em&gt;60% faster&lt;/em&gt; than normal hair dryers. This style-enhancing machine comes with a newly designed and engineered lightweight motor to keep your arms from getting tired, and the nozzle accepts most universal fit diffusers. Spend less time in the bathroom and more time living the fabulous life!</ProductDescription>
+    <ProductDescriptionShort>Kiss your old hair dryer goodbye and get out the front door faster with this innovative, high-powered hair dryer. Its advanced ion technology and high airflow tourmaline is proven to dry hair up to 60% faster than normal hair dryers.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>30.0000</ProductPrice>
+    <SetupCost>12.0000</SetupCost>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <ProductFeatures>This hair dryer with ion technology and high airflow tourmaline dries hair up to &lt;em&gt;60% faster&lt;/em&gt;! Tourmaline converts heat into infrared energy, drying the inside without over drying the outside. This dryer also cleanses hair of odors and pollutants, leaving the cuticles silky, shiny, softer and less frizzy by breaking water into smaller droplets. It also comes with a newly designed and engineered lightweight motor and the nozzle accepts most universal fit diffusers.</ProductFeatures>
+    <TechSpecs>Ionic/Tourmaline Technology
+      1875 Watts of Power
+      Ion Indicator Light
+      3 Heat/Speed Settings
+      Diffuser Attachment
+      Ion Indicator Light</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HomePage_Section>1</HomePage_Section>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/1/2011 9:49:00 AM</LastModified>
+    <ProductCode>HC-mirror</ProductCode>
+    <ProductID>37344</ProductID>
+    <ProductName>Cordless LED Lighted Pivoting Vanity Mirror</ProductName>
+    <ProductDescription>Make sure that every last detail looks fabulous with this cordless vanity mirror. This must-have accessory is packed with all the features you need to look fantastic, including a circular LED light to provide the perfect amount of illumination. Take your choice of color, either Satin Nickel or Bronze. Even more, this mirror has a cordless design so you can move it room to room, and even swivels 360 degrees to offer the ultimate flexibility. Need to see something closer? Included dual mirrors offer up to 4x magnification. There's nothing vain about loving this mirror!</ProductDescription>
+    <ProductDescriptionShort>Make sure that every last detail looks fabulous with this cordless vanity mirror. This must-have accessory is packed with all the features you need to look fantastic, including a circular LED light to provide the perfect amount of illumination.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>Y</Hide_YouSave>
+    <METATAG_Description>Cordless LED Lighted Pivoting Vanity Mirror</METATAG_Description>
+    <METATAG_Title>Cordless LED Lighted Pivoting Vanity Mirror</METATAG_Title>
+    <Oversized>N</Oversized>
+    <ProductPrice>60.0000</ProductPrice>
+    <ProductWeight>4</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SalePrice>45.0000</SalePrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <METATAG_Keywords>Cordless LED Lighted Pivoting Vanity Mirror</METATAG_Keywords>
+    <ProductFeatures>Available in satin nickel and bronze finish
+      Circular LED light
+      Cordless design uses four AA batteries (not included)
+      Swivels 360 degrees and pivots
+      Dual mirrors offer 1x and 4x magnification
+      15" high. 8" wide
+      Base is  7" wide.</ProductFeatures>
+    <TechSpecs>Wipe clean with warm damp cloth while light is off.</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 11:40:00 AM</LastModified>
+    <ProductCode>MC</ProductCode>
+    <ProductID>37345</ProductID>
+    <ProductName>Mini Cupcakes</ProductName>
+    <ProductDescription>Take a break of sheer indulgence by savoring the sweet flavors of these mini cupcakes. Hand made in our City Market bakery, these little slices of heaven are sure to delight. Mix and match any of these divine flavors to make the perfect set and leave the baking to our experts. Fan favorites include Red Velvet, Coffee Bean, and of course, Classic Chocolate. Each cupcake is baked to order to guarantee that you only receive a fresh, moist product. </ProductDescription>
+    <ProductDescriptionShort>Take a break of sheer indulgence by savoring the sweet flavors of these mini cupcakes. Hand made in our City Market bakery, these little slices of heaven are sure to delight. Mix and match any of these divine flavors to make the perfect set.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>Y</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>N</FreeShippingItem>
+    <GiftWrapCost>1.0000</GiftWrapCost>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <MinQty>0</MinQty>
+    <Oversized>N</Oversized>
+    <ProductManufacturer>Delish</ProductManufacturer>
+    <ProductPrice>9.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HomePage_Section>1</HomePage_Section>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/27/2011 12:31:00 PM</LastModified>
+    <ProductCode>MacFRC</ProductCode>
+    <ProductID>37346</ProductID>
+    <ProductName>French Macarons</ProductName>
+    <ProductDescription>Sweeten up any occasion with these tasty, delicate desserts. These treats will take your taste buds on a ride thanks to their satisfyingly sweet taste and crunchy exterior upon first bite. Once you reach the interior, you'll find a chewy and creamy delight. Sold in packs of 10 or 20, these simple desserts will be the life of any tea or dinner party. Of, if you prefer to snuggle up on the couch and keep them to yourself, your secret is safe with us.
+    </ProductDescription>
+    <ProductDescriptionShort>Sweeten up any occasion with these tasty, delicate desserts. These treats will take your taste buds on a ride thanks to their satisfyingly sweet taste and crunchy exterior upon first bite. Once you reach the interior, you'll find a chewy and creamy delight.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>15.0000</ProductPrice>
+    <ProductWeight>2</ProductWeight>
+    <Ships_By_Itself>N</Ships_By_Itself>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 11:40:00 AM</LastModified>
+    <ProductCode>TF</ProductCode>
+    <ProductID>37347</ProductID>
+    <ProductName>Truffles</ProductName>
+    <ProductDescription>Want to take a bite out of the everyday grind? Step away from reality by tantalizing your taste buds with our hand-dipped gourmet truffles, filled with creamy flavor and coated with a yummy shell. Get started by selecting any of our delightful flavor combinations, all crafted by our pastry chefs at our City Market bakery. Popular flavors include Dulce de leche, Latte, and The Classic.  Feeling ambitious? Take a risk and try our Samuri, filled with wasabi and ginger with a white chocolate coating. All orders are shipped in a decorative truffle box.</ProductDescription>
+    <ProductDescriptionShort>Want to take a bite out of the everyday grind? Step away from reality by tantalizing your taste buds with our hand-dipped gourmet truffles, filled with creamy flavor and coated with a yummy shell. Get started by selecting any of our delightful flavor combinations.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>Y</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>N</FreeShippingItem>
+    <GiftWrapCost>1.0000</GiftWrapCost>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductManufacturer>Delish</ProductManufacturer>
+    <ProductPrice>12.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <TaxableProduct>Y</TaxableProduct>
+    <TechSpecs>Store in a cool dry place
+      Do not store near pungent smelling items</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HomePage_Section>1</HomePage_Section>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 10:54:00 AM</LastModified>
+    <ProductCode>ah-chairbamboo</ProductCode>
+    <ProductID>37348</ProductID>
+    <ProductName>Modern Bamboo Chair</ProductName>
+    <WarehouseAisle>Aisle J</WarehouseAisle>
+    <WarehouseBin>Bin # 23</WarehouseBin>
+    <WarehouseCustom>Large product - use pallet lifter!</WarehouseCustom>
+    <WarehouseLocation>1223 Baker</WarehouseLocation>
+    <ProductDescription>Accentuate your dining table with this stylishly chic chair, made of 100% pure bamboo. Perfect for any decor, this seat's rustically modern stain will serve as a fashionable addition to any room. Its stainless steel legs provide the perfect foundation for long-lasting memories over delicious meals with family and friends. Better yet, this chair's ergonomic design offers the comfort needed to help keep your loved ones connected by food, fun and conversation.</ProductDescription>
+    <ProductDescriptionShort>Accentuate your dining table with this stylishly chic chair, made of 100% pure bamboo. Perfect for any decor, this seat's rustically modern stain will serve as a fashionable addition to any room.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>Modern Bamboo Chair</METATAG_Description>
+    <METATAG_Title>Modern Bamboo Chair</METATAG_Title>
+    <Oversized>N</Oversized>
+    <ProductManufacturer>Decor, Inc</ProductManufacturer>
+    <ProductPrice>100.0000</ProductPrice>
+    <ProductWeight>0.5</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses>1</warehouses>
+    <METATAG_Keywords>Modern Bamboo Chair</METATAG_Keywords>
+    <TechSpecs>Dimension: 18W 22"D 40"H
+      Finish: Wood Fruit, Golden Oak
+      Material: Solid Bamboo
+      Set of 2 Dining Chairs
+      Clean Lines and Contemporary Styling
+      Matching Dining Table Sold Separately</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HomePage_Section>1</HomePage_Section>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 10:51:00 AM</LastModified>
+    <ProductCode>ah-chest</ProductCode>
+    <ProductID>37349</ProductID>
+    <ProductName>3-Drawer Chest</ProductName>
+    <WarehouseAisle>Aisle J</WarehouseAisle>
+    <WarehouseBin>Bin # 23</WarehouseBin>
+    <WarehouseCustom>Large product - use pallet lifter!</WarehouseCustom>
+    <WarehouseLocation>1223 Baker</WarehouseLocation>
+    <ProductDescription>Stow away your finest belongings with this spaciously stunning chest. Furnished with a signature straight leg design and brushed silver hardware, this sturdy piece of furniture will give a classy pop of style to any room in your home. Use this item in your bedroom to pack your favorite pieces of apparel, and double it as a TV stand to provide the ultimate relaxation while in bed. Or, hang a mirror above it for the ideal place to get ready in the morning for another action-packed day. Whatever the case, this dresser will amp up your space while reducing clutter around the home.</ProductDescription>
+    <ProductDescriptionShort>Stow away your finest belongings with this spaciously stunning chest. Furnished with a signature straight leg design and brushed silver hardware, this sturdy piece of furniture will give a classy pop of style to any room in your home.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>3-Drawer Chest</METATAG_Description>
+    <METATAG_Title>3-Drawer Chest</METATAG_Title>
+    <Oversized>N</Oversized>
+    <ProductManufacturer>Decor, Inc</ProductManufacturer>
+    <ProductPrice>300.0000</ProductPrice>
+    <ProductWeight>2</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses>1</warehouses>
+    <METATAG_Keywords>3-Drawer Chest</METATAG_Keywords>
+    <ProductFeatures>Manufactured from Eco-friendly CARB Compliant Composite Wood
+      Carries the Forest Stewardship Council (FSC) Certification
+      Wood Grain Finish Available in Mahogany and Ebony
+      3 Pull-out Drawers
+      Polymer Drawer Glides with Dampers and Stops
+      Brushed Silver Hardware
+      Drawer Dimensions: Width: 28 inches, Front-to-Back 16 inches, Height: 5 inches
+      Assembly Required
+      Clean with a Soft, Dry Cloth
+      Made in USA</ProductFeatures>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 11:02:00 AM</LastModified>
+    <ProductCode>ah-decorpillows</ProductCode>
+    <ProductID>37350</ProductID>
+    <ProductName>Decorative Pillows</ProductName>
+    <ProductDescription>Cuddle up and get cozy with these decorative pillows. Their boldly striped design serves as a sharp accent to your favorite piece of furniture, whether it's your couch, bed or lounge chair. With covers made of 100% cotton, these pillows are built to last the test of time. Simply remove the outer cloth and drop it in the washing machine to remove any dirt or stains. These versatile pillows match with any color or fabric, allowing your furniture to make a statement as big as your personality.</ProductDescription>
+    <ProductDescriptionShort>Cuddle up and get cozy with these decorative pillows. Their boldly striped design serves as a sharp accent to your favorite piece of furniture, whether it's your couch, bed or lounge chair. With covers made of 100% cotton, these pillows are built to last the test of time.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>Decorative Pillows</METATAG_Description>
+    <METATAG_Title>Decorative Pillows</METATAG_Title>
+    <Oversized>N</Oversized>
+    <ProductPrice>20.0000</ProductPrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <METATAG_Keywords>Decorative Pillows</METATAG_Keywords>
+    <ProductFeatures>100% Organic Cotton Cover
+      Fully Machine-washable Covers
+      Dimensions: 24"L x 16"W</ProductFeatures>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HomePage_Section>1</HomePage_Section>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 11:02:00 AM</LastModified>
+    <ProductCode>ah-lchair</ProductCode>
+    <ProductID>37351</ProductID>
+    <ProductName>Lounge Chair</ProductName>
+    <WarehouseAisle>Aisle J</WarehouseAisle>
+    <WarehouseBin>Bin # 23</WarehouseBin>
+    <WarehouseCustom>Large product - use pallet lifter!</WarehouseCustom>
+    <WarehouseLocation>1223 Baker</WarehouseLocation>
+    <ProductDescription>Give yourself and your guests the gift of comfort with this fashionable lounge chair. A great addition to any space, this stylish seat consists of a distinct, fully-tufted Italian leather covering that's attached to an exposed metallic frame and legs. Available in your choice of colors: Dark Green, Eggplant, and Black, you'll have a distinct accent to amplify the look of your home or office. With a lightweight frame and plush cushion, you can easily move this piece of furniture wherever you please. And thanks to its luxuriously fine Italian leather, you'll never want to get up out of this seat.</ProductDescription>
+    <ProductDescriptionShort>Give yourself and your guests the gift of comfort with this fashionable lounge chair. A great addition to any space, this stylish seat consists of a distinct, fully-tufted Italian leather covering that's attached to an exposed metallic frame and legs.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>Lounge Chair</METATAG_Description>
+    <METATAG_Title>Lounge Chair</METATAG_Title>
+    <Oversized>N</Oversized>
+    <ProductManufacturer>Decor, Inc</ProductManufacturer>
+    <ProductNameShort>Lounge Chair</ProductNameShort>
+    <ProductPrice>400.0000</ProductPrice>
+    <ProductWeight>3</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses>1</warehouses>
+    <METATAG_Keywords>Lounge Chair</METATAG_Keywords>
+    <ProductFeatures>100% Genuine Italian Leather
+      Distinct, Fully-Tufted, Seat and Back Covering
+      Elegant Stainless Steel Frame
+      Overall Dimensions: 30"L x 40"W x 40"D and 50 LBS</ProductFeatures>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>87</LastModBy>
+    <LastModified>6/27/2011 1:16:00 PM</LastModified>
+    <ProductCode>ah-pictframe</ProductCode>
+    <ProductID>37352</ProductID>
+    <ProductName>Picture Frame</ProductName>
+    <ProductDescription>Share your precious memories by showcasing them in this classic wooden picture frame. Designed to perfectly hold a 5"x7" photograph, you can hang this mahogany frame on a wall or prop it up on your desk or table. Its solid black color makes this frame versatile enough to place in any location while still making a design statement. Exchange photographs and rotate the frame to serve as a constant reminder of your favorite things all year long.</ProductDescription>
+    <ProductDescriptionShort>Share your precious memories by showcasing them in this classic wooden picture frame. Designed to perfectly hold a 5"x7" photograph, you can hang this mahogany frame on a wall or prop it up on your desk or table.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>Picture Frame</METATAG_Description>
+    <METATAG_Title>Picture Frame</METATAG_Title>
+    <Oversized>N</Oversized>
+    <ProductPrice>10.9900</ProductPrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <METATAG_Keywords>Picture Frame</METATAG_Keywords>
+    <ProductFeatures>Made of US-grown Mahogany Wood
+      Designed to hold a 5"x7" Photograph
+      Built-in Wall Mount and Table Stand
+      Stained with Coal Black Color </ProductFeatures>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 4:57:00 PM</LastModified>
+    <ProductCode>ah-plain lamp</ProductCode>
+    <ProductID>37353</ProductID>
+    <ProductName>Lamp</ProductName>
+    <ProductDescription>Light up any space with this simple, sleek table lamp.  Features a stainless base and pull, this home accessory stays shiny with little maintenance. To top off the lamp, its round drum shade is made of 100% organic cotton, which comes in your choice of two striking colors. Designed by Moderno, this piece adds a modern, industrial feel to any room.</ProductDescription>
+    <ProductDescriptionShort />
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>26.0000</ProductPrice>
+    <ProductWeight>6</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SalePrice>20.0000</SalePrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <TechSpecs>Stainless steel base and pull
+      100% cotton shade
+      100 watt max
+      70" cord
+      22"H, 9" diameter
+      Imported</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HomePage_Section>1</HomePage_Section>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 11:53:00 AM</LastModified>
+    <ProductCode>aroma</ProductCode>
+    <ProductID>37354</ProductID>
+    <ProductName>Aromatherapy Oils</ProductName>
+    <ProductDescription>Immerse yourself in relaxing scents with these soothing aromatherapy oils. Made from all-natural, organic ingredients, these scents are designed to calm your mind and rejuvenate your soul, all without having to pay for an expensive trip to the spa. These little bottles of joy, available in 5, 8, and 10 ounce sizes, are available in three scents: Spearmint, Lavendar and Rose. Pick your favorite or buy all three to keep your calm intact all day long.</ProductDescription>
+    <ProductDescriptionShort>Immerse yourself in relaxing scents with these soothing aromatherapy oils. Made from all-natural, organic ingredients, these scents are designed to calm your mind and rejuvenate your soul, all without having to pay for an expensive trip to the spa.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>Y</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductManufacturer>Aroma</ProductManufacturer>
+    <ProductPrice>20.0000</ProductPrice>
+    <ProductWeight>0.25</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SalePrice>10.0000</SalePrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <TechSpecs>100% all natural
+      Available in spearmint, lavender, and rose
+      Available in 5, 8 or 10 ounces liquid
+      Store in a cool dry place</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 11:02:00 AM</LastModified>
+    <ProductCode>BB-SGS</ProductCode>
+    <ProductID>37364</ProductID>
+    <ProductName>Spa Gift Set</ProductName>
+    <ProductDescription>Need to escape? Travel to far off lands of relaxation with our deluxe spa gift set. With a foaming scrub, dead sea salts, and silkening body wash, you'll be able to pamper and polish in your own tub.</ProductDescription>
+    <ProductDescriptionShort />
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <METATAG_Description>Spa Gift Set</METATAG_Description>
+    <METATAG_Title>Spa Gift Set</METATAG_Title>
+    <Oversized>N</Oversized>
+    <ProductPrice>12.0000</ProductPrice>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <METATAG_Keywords>Spa Gift Set</METATAG_Keywords>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MC</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:25:00 AM</LastModified>
+    <Photos_Cloned_From>MC</Photos_Cloned_From>
+    <ProductCode>MC-1</ProductCode>
+    <ProductID>37383</ProductID>
+    <ProductName>Mini Cupcakes - Grasshopper: Dark chocolate base with white chocolate mint ganache</ProductName>
+    <ProductDescription>Need something sweet?  These delectable mini cupcakes will make anyone smile.  Choose from a variety flavors to make your perfect combination. &lt;br&gt;&lt;br&gt;&lt;span style="font-style: italic; color: rgb(255, 69, 0);"&gt;Each order requires a minimum of 6 cupcakes. A $5 charge for cupcake packaging is also included.&lt;/span&gt;</ProductDescription>
+    <ProductDescriptionShort>Need something sweet?  These delectable mini cupcakes will make anyone smile.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>N</FreeShippingItem>
+    <GiftWrapCost>1.0000</GiftWrapCost>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <MinQty>0</MinQty>
+    <ProductPrice>9.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MC</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:25:00 AM</LastModified>
+    <Photos_Cloned_From>MC</Photos_Cloned_From>
+    <ProductCode>MC-2</ProductCode>
+    <ProductID>37384</ProductID>
+    <ProductName>Mini Cupcakes - Red Velvet: Red velvet base with classic cream cheese frosting</ProductName>
+    <ProductDescription>Need something sweet?  These delectable mini cupcakes will make anyone smile.  Choose from a variety flavors to make your perfect combination. &lt;br&gt;&lt;br&gt;&lt;span style="font-style: italic; color: rgb(255, 69, 0);"&gt;Each order requires a minimum of 6 cupcakes. A $5 charge for cupcake packaging is also included.&lt;/span&gt;</ProductDescription>
+    <ProductDescriptionShort>Need something sweet?  These delectable mini cupcakes will make anyone smile.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>N</FreeShippingItem>
+    <GiftWrapCost>1.0000</GiftWrapCost>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <MinQty>0</MinQty>
+    <ProductPrice>9.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MC</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:25:00 AM</LastModified>
+    <Photos_Cloned_From>MC</Photos_Cloned_From>
+    <ProductCode>MC-3</ProductCode>
+    <ProductID>37385</ProductID>
+    <ProductName>Mini Cupcakes - The Pink: Devils food base with strawberry meringue</ProductName>
+    <ProductDescription>Need something sweet?  These delectable mini cupcakes will make anyone smile.  Choose from a variety flavors to make your perfect combination. &lt;br&gt;&lt;br&gt;&lt;span style="font-style: italic; color: rgb(255, 69, 0);"&gt;Each order requires a minimum of 6 cupcakes. A $5 charge for cupcake packaging is also included.&lt;/span&gt;</ProductDescription>
+    <ProductDescriptionShort>Need something sweet?  These delectable mini cupcakes will make anyone smile.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>N</FreeShippingItem>
+    <GiftWrapCost>1.0000</GiftWrapCost>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <MinQty>0</MinQty>
+    <ProductPrice>9.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MC</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:25:00 AM</LastModified>
+    <Photos_Cloned_From>MC</Photos_Cloned_From>
+    <ProductCode>MC-4</ProductCode>
+    <ProductID>37386</ProductID>
+    <ProductName>Mini Cupcakes - Classic Chocolate: Milk chocolate base with chocolate butter cream</ProductName>
+    <ProductDescription>Need something sweet?  These delectable mini cupcakes will make anyone smile.  Choose from a variety flavors to make your perfect combination. &lt;br&gt;&lt;br&gt;&lt;span style="font-style: italic; color: rgb(255, 69, 0);"&gt;Each order requires a minimum of 6 cupcakes. A $5 charge for cupcake packaging is also included.&lt;/span&gt;</ProductDescription>
+    <ProductDescriptionShort>Need something sweet?  These delectable mini cupcakes will make anyone smile.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>N</FreeShippingItem>
+    <GiftWrapCost>1.0000</GiftWrapCost>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <MinQty>0</MinQty>
+    <ProductPrice>9.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MC</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:25:00 AM</LastModified>
+    <Photos_Cloned_From>MC</Photos_Cloned_From>
+    <ProductCode>MC-5</ProductCode>
+    <ProductID>37387</ProductID>
+    <ProductName>Mini Cupcakes - Candy Stripe: Vanilla base with cherry butter cream</ProductName>
+    <ProductDescription>Need something sweet?  These delectable mini cupcakes will make anyone smile.  Choose from a variety flavors to make your perfect combination. &lt;br&gt;&lt;br&gt;&lt;span style="font-style: italic; color: rgb(255, 69, 0);"&gt;Each order requires a minimum of 6 cupcakes. A $5 charge for cupcake packaging is also included.&lt;/span&gt;</ProductDescription>
+    <ProductDescriptionShort>Need something sweet?  These delectable mini cupcakes will make anyone smile.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>N</FreeShippingItem>
+    <GiftWrapCost>1.0000</GiftWrapCost>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <MinQty>0</MinQty>
+    <ProductPrice>9.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MC</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:25:00 AM</LastModified>
+    <Photos_Cloned_From>MC</Photos_Cloned_From>
+    <ProductCode>MC-6</ProductCode>
+    <ProductID>37388</ProductID>
+    <ProductName>Mini Cupcakes - Coffee Bean: Dark chocolate base with mocha ganache</ProductName>
+    <ProductDescription>Need something sweet?  These delectable mini cupcakes will make anyone smile.  Choose from a variety flavors to make your perfect combination. &lt;br&gt;&lt;br&gt;&lt;span style="font-style: italic; color: rgb(255, 69, 0);"&gt;Each order requires a minimum of 6 cupcakes. A $5 charge for cupcake packaging is also included.&lt;/span&gt;</ProductDescription>
+    <ProductDescriptionShort>Need something sweet?  These delectable mini cupcakes will make anyone smile.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>N</FreeShippingItem>
+    <GiftWrapCost>1.0000</GiftWrapCost>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <MinQty>0</MinQty>
+    <ProductPrice>9.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MC</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>6/28/2011 11:02:00 AM</LastModified>
+    <Photos_Cloned_From>MC</Photos_Cloned_From>
+    <ProductCode>MC-8</ProductCode>
+    <ProductID>37390</ProductID>
+    <ProductName>Mini Cupcakes - Sunset: Milk chocolate base with orange butter cream and pistachios</ProductName>
+    <ProductDescription>Need something sweet? These delectable mini cupcakes will make anyone smile.  Choose from a variety flavors to make your perfect combination. &lt;br&gt;&lt;br&gt;&lt;span style="font-style: italic; color: rgb(255, 69, 0);"&gt;Each order requires a minimum of 6 cupcakes. A $5 charge for cupcake packaging is also included.&lt;/span&gt;</ProductDescription>
+    <ProductDescriptionShort>Need something sweet?  These delectable mini cupcakes will make anyone smile.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>N</FreeShippingItem>
+    <GiftWrapCost>1.0000</GiftWrapCost>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <MinQty>0</MinQty>
+    <ProductPrice>9.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>TF</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:37:00 AM</LastModified>
+    <Photos_Cloned_From>TF</Photos_Cloned_From>
+    <ProductCode>TF-1</ProductCode>
+    <ProductID>37391</ProductID>
+    <ProductName>Truffles - Sweet + Salty:  Sea salt caramel + milk chocolate + pine nut</ProductName>
+    <ProductDescription>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles. Explore exotic flavors like sweet curry milk chocolate, spicy dark chocolate and wasabi ginger white chocolate. Mix and match our truffles to create a flavor profile just for you.</ProductDescription>
+    <ProductDescriptionShort>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>12.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost>0.0000</SetupCost>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>TF</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:37:00 AM</LastModified>
+    <Photos_Cloned_From>TF</Photos_Cloned_From>
+    <ProductCode>TF-2</ProductCode>
+    <ProductID>37399</ProductID>
+    <ProductName>Truffles - Cherry Blossom: White chocolate + dried cherries + caramel</ProductName>
+    <ProductDescription>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles. Explore exotic flavors like sweet curry milk chocolate, spicy dark chocolate and wasabi ginger white chocolate. Mix and match our truffles to create a flavor profile just for you.</ProductDescription>
+    <ProductDescriptionShort>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>12.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost>0.0000</SetupCost>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>TF</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:37:00 AM</LastModified>
+    <Photos_Cloned_From>TF</Photos_Cloned_From>
+    <ProductCode>TF-3</ProductCode>
+    <ProductID>37400</ProductID>
+    <ProductName>Truffles - Black Tie: Dark chocolate + white chocolate +lavender + sesame seeds</ProductName>
+    <ProductDescription>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles. Explore exotic flavors like sweet curry milk chocolate, spicy dark chocolate and wasabi ginger white chocolate. Mix and match our truffles to create a flavor profile just for you.</ProductDescription>
+    <ProductDescriptionShort>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>12.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost>0.0000</SetupCost>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>TF</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:37:00 AM</LastModified>
+    <Photos_Cloned_From>TF</Photos_Cloned_From>
+    <ProductCode>TF-4</ProductCode>
+    <ProductID>37401</ProductID>
+    <ProductName>Truffles - Hazel Crunch: Crunchy hazelnut praline + milk chocolate</ProductName>
+    <ProductDescription>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles. Explore exotic flavors like sweet curry milk chocolate, spicy dark chocolate and wasabi ginger white chocolate. Mix and match our truffles to create a flavor profile just for you.</ProductDescription>
+    <ProductDescriptionShort>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>12.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost>0.0000</SetupCost>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>TF</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:37:00 AM</LastModified>
+    <Photos_Cloned_From>TF</Photos_Cloned_From>
+    <ProductCode>TF-5</ProductCode>
+    <ProductID>37402</ProductID>
+    <ProductName>Truffles - La Vanilla:  Mexican vanilla bean + deep milk chocolate</ProductName>
+    <ProductDescription>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles. Explore exotic flavors like sweet curry milk chocolate, spicy dark chocolate and wasabi ginger white chocolate. Mix and match our truffles to create a flavor profile just for you.</ProductDescription>
+    <ProductDescriptionShort>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>12.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost>0.0000</SetupCost>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>TF</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>5/12/2011 10:37:00 AM</LastModified>
+    <Photos_Cloned_From>TF</Photos_Cloned_From>
+    <ProductCode>TF-6</ProductCode>
+    <ProductID>37403</ProductID>
+    <ProductName>Truffles - The Classic:  Soft caramel + deep milk chocolate</ProductName>
+    <ProductDescription>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles. Explore exotic flavors like sweet curry milk chocolate, spicy dark chocolate and wasabi ginger white chocolate. Mix and match our truffles to create a flavor profile just for you.</ProductDescription>
+    <ProductDescriptionShort>Feeling indulgent?  Tantalize your taste buds with our hand dipped gourmet truffles.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>N</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>12.0000</ProductPrice>
+    <ProductWeight>0.05</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <SetupCost>0.0000</SetupCost>
+    <SetupCost_Title>Truffle Box</SetupCost_Title>
+    <TaxableProduct>Y</TaxableProduct>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 9:43:00 AM</LastModified>
+    <ProductCode>WA-SSPurse</ProductCode>
+    <ProductID>37429</ProductID>
+    <ProductName>Snake Skin Purse</ProductName>
+    <ProductDescription>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescription>
+    <ProductDescriptionShort>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>98.0000</ProductPrice>
+    <ProductWeight>3</ProductWeight>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <TechSpecs>Faux python
+      Silk lining
+      10.5"H, 16"W, 8"D
+      Imported</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>WA-SSPurse</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 8:49:00 AM</LastModified>
+    <Photos_Cloned_From>WA-SSPurse</Photos_Cloned_From>
+    <ProductCode>WA-SSPurse-0001</ProductCode>
+    <ProductID>37430</ProductID>
+    <ProductName>Snake Skin Purse - Sea Blue</ProductName>
+    <ProductDescription>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescription>
+    <ProductDescriptionShort>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>100.0000</ProductPrice>
+    <ProductWeight>3</ProductWeight>
+    <warehouses />
+    <TechSpecs>Faux python
+      Silk lining
+      10.5"H, 16"W, 8"D
+      Imported</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>WA-SSPurse</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 8:49:00 AM</LastModified>
+    <Photos_Cloned_From>WA-SSPurse</Photos_Cloned_From>
+    <ProductCode>WA-SSPurse-0002</ProductCode>
+    <ProductID>37431</ProductID>
+    <ProductName>Snake Skin Purse - Purple</ProductName>
+    <ProductDescription>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescription>
+    <ProductDescriptionShort>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>98.0000</ProductPrice>
+    <ProductWeight>3</ProductWeight>
+    <warehouses />
+    <TechSpecs>Faux python
+      Silk lining
+      10.5"H, 16"W, 8"D
+      Imported</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>WA-SSPurse</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 8:49:00 AM</LastModified>
+    <Photos_Cloned_From>WA-SSPurse</Photos_Cloned_From>
+    <ProductCode>WA-SSPurse-0003</ProductCode>
+    <ProductID>37432</ProductID>
+    <ProductName>Snake Skin Purse - Royal Blue</ProductName>
+    <ProductDescription>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescription>
+    <ProductDescriptionShort>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>98.0000</ProductPrice>
+    <ProductWeight>3</ProductWeight>
+    <warehouses />
+    <TechSpecs>Faux python
+      Silk lining
+      10.5"H, 16"W, 8"D
+      Imported</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>WA-SSPurse</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 8:49:00 AM</LastModified>
+    <Photos_Cloned_From>WA-SSPurse</Photos_Cloned_From>
+    <ProductCode>WA-SSPurse-0004</ProductCode>
+    <ProductID>37433</ProductID>
+    <ProductName>Snake Skin Purse - Red</ProductName>
+    <ProductDescription>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescription>
+    <ProductDescriptionShort>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>98.0000</ProductPrice>
+    <ProductWeight>3</ProductWeight>
+    <warehouses />
+    <TechSpecs>Faux python
+      Silk lining
+      10.5"H, 16"W, 8"D
+      Imported</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>WA-SSPurse</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 8:49:00 AM</LastModified>
+    <Photos_Cloned_From>WA-SSPurse</Photos_Cloned_From>
+    <ProductCode>WA-SSPurse-0005</ProductCode>
+    <ProductID>37434</ProductID>
+    <ProductName>Snake Skin Purse - Dark Tan</ProductName>
+    <ProductDescription>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescription>
+    <ProductDescriptionShort>Add an exotic flair.  Our faux python bags are the perfect finishing touch to any outfit.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>98.0000</ProductPrice>
+    <ProductWeight>3</ProductWeight>
+    <warehouses />
+    <TechSpecs>Faux python
+      Silk lining
+      10.5"H, 16"W, 8"D
+      Imported</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HomePage_Section>1</HomePage_Section>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:52:00 AM</LastModified>
+    <ProductCode>WA-Peeptoe</ProductCode>
+    <ProductID>37435</ProductID>
+    <ProductName>Peep Toe Heels</ProductName>
+    <ProductDescription>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.  Custom dyeing also available.</ProductDescription>
+    <ProductDescriptionShort>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <Price_SubText_Short>Custom dyeing available</Price_SubText_Short>
+    <ProductPrice>58.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <TechSpecs>3 inch heel
+      Wipe clean with damp cloth</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <HomePage_Section>1</HomePage_Section>
+    <IsChildOfProductCode>WA-Peeptoe</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:52:00 AM</LastModified>
+    <Photos_Cloned_From>WA-Peeptoe</Photos_Cloned_From>
+    <ProductCode>WA-Peeptoe-0001</ProductCode>
+    <ProductID>37436</ProductID>
+    <ProductName>Peep Toe Heels - Blue - 7</ProductName>
+    <ProductDescription>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.  Custom dyeing also available.</ProductDescription>
+    <ProductDescriptionShort>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Price_SubText_Short>Custom dyeing available</Price_SubText_Short>
+    <ProductPrice>58.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <warehouses />
+    <TechSpecs>3 inch heel
+      Wipe clean with damp cloth</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <HomePage_Section>1</HomePage_Section>
+    <IsChildOfProductCode>WA-Peeptoe</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:52:00 AM</LastModified>
+    <Photos_Cloned_From>WA-Peeptoe</Photos_Cloned_From>
+    <ProductCode>WA-Peeptoe-0002</ProductCode>
+    <ProductID>37437</ProductID>
+    <ProductName>Peep Toe Heels - Warm Dust - 7</ProductName>
+    <ProductDescription>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.  Custom dyeing also available.</ProductDescription>
+    <ProductDescriptionShort>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Price_SubText_Short>Custom dyeing available</Price_SubText_Short>
+    <ProductPrice>58.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <warehouses />
+    <TechSpecs>3 inch heel
+      Wipe clean with damp cloth</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <HomePage_Section>1</HomePage_Section>
+    <IsChildOfProductCode>WA-Peeptoe</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:52:00 AM</LastModified>
+    <Photos_Cloned_From>WA-Peeptoe</Photos_Cloned_From>
+    <ProductCode>WA-Peeptoe-0003</ProductCode>
+    <ProductID>37438</ProductID>
+    <ProductName>Peep Toe Heels - Blue - 8</ProductName>
+    <ProductDescription>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.  Custom dyeing also available.</ProductDescription>
+    <ProductDescriptionShort>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Price_SubText_Short>Custom dyeing available</Price_SubText_Short>
+    <ProductPrice>58.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <warehouses />
+    <TechSpecs>3 inch heel
+      Wipe clean with damp cloth</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <HomePage_Section>1</HomePage_Section>
+    <IsChildOfProductCode>WA-Peeptoe</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:52:00 AM</LastModified>
+    <Photos_Cloned_From>WA-Peeptoe</Photos_Cloned_From>
+    <ProductCode>WA-Peeptoe-0004</ProductCode>
+    <ProductID>37439</ProductID>
+    <ProductName>Peep Toe Heels - Warm Dust - 8</ProductName>
+    <ProductDescription>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.  Custom dyeing also available.</ProductDescription>
+    <ProductDescriptionShort>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Price_SubText_Short>Custom dyeing available</Price_SubText_Short>
+    <ProductPrice>58.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <warehouses />
+    <TechSpecs>3 inch heel
+      Wipe clean with damp cloth</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <HomePage_Section>1</HomePage_Section>
+    <IsChildOfProductCode>WA-Peeptoe</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:52:00 AM</LastModified>
+    <Photos_Cloned_From>WA-Peeptoe</Photos_Cloned_From>
+    <ProductCode>WA-Peeptoe-0005</ProductCode>
+    <ProductID>37440</ProductID>
+    <ProductName>Peep Toe Heels - Blue - 9</ProductName>
+    <ProductDescription>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.  Custom dyeing also available.</ProductDescription>
+    <ProductDescriptionShort>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Price_SubText_Short>Custom dyeing available</Price_SubText_Short>
+    <ProductPrice>58.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <warehouses />
+    <TechSpecs>3 inch heel
+      Wipe clean with damp cloth</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <HomePage_Section>1</HomePage_Section>
+    <IsChildOfProductCode>WA-Peeptoe</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:52:00 AM</LastModified>
+    <Photos_Cloned_From>WA-Peeptoe</Photos_Cloned_From>
+    <ProductCode>WA-Peeptoe-0006</ProductCode>
+    <ProductID>37441</ProductID>
+    <ProductName>Peep Toe Heels - Warm Dust - 9</ProductName>
+    <ProductDescription>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.  Custom dyeing also available.</ProductDescription>
+    <ProductDescriptionShort>Spice things up! Add some sass and flair to any outfit with these satin peep toe heels.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Price_SubText_Short>Custom dyeing available</Price_SubText_Short>
+    <ProductPrice>58.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <warehouses />
+    <TechSpecs>3 inch heel
+      Wipe clean with damp cloth</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/6/2011 1:24:00 PM</LastModified>
+    <ProductCode>WT-Peasant</ProductCode>
+    <ProductID>37451</ProductID>
+    <ProductName>Peasant Blouse</ProductName>
+    <ProductDescription>The perfect weekend top. Keep it cool with this light and airy cotton peasant blouse.  The ethereal fabric and hand stitching make this the best top for weekend errand or a vacation on the beach.</ProductDescription>
+    <ProductDescriptionShort>The perfect weekend top. Keep it cool with this light and airy cotton peasant blouse.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>38.0000</ProductPrice>
+    <ProductWeight>0.25</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <TechSpecs>100% Cotton
+      Hand wash
+      Line dry
+      Imported</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>WT-Peasant</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 9:16:00 AM</LastModified>
+    <Photos_Cloned_From>WT-Peasant</Photos_Cloned_From>
+    <ProductCode>WT-Peasant-0001</ProductCode>
+    <ProductID>37452</ProductID>
+    <ProductName>Peasant Blouse - Large</ProductName>
+    <ProductDescription>The perfect weekend top. Keep it cool with this light and airy cotton peasant blouse.  The ethereal fabric and hand stitching make this the best top for weekend errand or a vacation on the beach.</ProductDescription>
+    <ProductDescriptionShort>The perfect weekend top. Keep it cool with this light and airy cotton peasant blouse.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>38.0000</ProductPrice>
+    <ProductWeight>0.25</ProductWeight>
+    <warehouses />
+    <TechSpecs>100% Cotton
+      Hand wash
+      Line dry
+      Imported</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>WT-Peasant</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 9:16:00 AM</LastModified>
+    <Photos_Cloned_From>WT-Peasant</Photos_Cloned_From>
+    <ProductCode>WT-Peasant-0002</ProductCode>
+    <ProductID>37453</ProductID>
+    <ProductName>Peasant Blouse - Medium</ProductName>
+    <ProductDescription>The perfect weekend top. Keep it cool with this light and airy cotton peasant blouse.  The ethereal fabric and hand stitching make this the best top for weekend errand or a vacation on the beach.</ProductDescription>
+    <ProductDescriptionShort>The perfect weekend top. Keep it cool with this light and airy cotton peasant blouse.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>38.0000</ProductPrice>
+    <ProductWeight>0.25</ProductWeight>
+    <warehouses />
+    <TechSpecs>100% Cotton
+      Hand wash
+      Line dry
+      Imported</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>WT-Peasant</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 9:16:00 AM</LastModified>
+    <Photos_Cloned_From>WT-Peasant</Photos_Cloned_From>
+    <ProductCode>WT-Peasant-0003</ProductCode>
+    <ProductID>37454</ProductID>
+    <ProductName>Peasant Blouse - Small</ProductName>
+    <ProductDescription>The perfect weekend top. Keep it cool with this light and airy cotton peasant blouse.  The ethereal fabric and hand stitching make this the best top for weekend errand or a vacation on the beach.</ProductDescription>
+    <ProductDescriptionShort>The perfect weekend top. Keep it cool with this light and airy cotton peasant blouse.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>38.0000</ProductPrice>
+    <ProductWeight>0.25</ProductWeight>
+    <warehouses />
+    <TechSpecs>100% Cotton
+      Hand wash
+      Line dry
+      Imported</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <ProductCode>MW-BShorts</ProductCode>
+    <ProductID>37455</ProductID>
+    <ProductName>Board Shorts</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0001</ProductCode>
+    <ProductID>37456</ProductID>
+    <ProductName>Board Shorts - Midnight Plaid - Large</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0002</ProductCode>
+    <ProductID>37457</ProductID>
+    <ProductName>Board Shorts - Blizzard Plaid - Large</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0003</ProductCode>
+    <ProductID>37458</ProductID>
+    <ProductName>Board Shorts - Black &amp;amp; White Plaid - Large</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0004</ProductCode>
+    <ProductID>37459</ProductID>
+    <ProductName>Board Shorts - Multicolor Plaid - Large</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0005</ProductCode>
+    <ProductID>37460</ProductID>
+    <ProductName>Board Shorts - Midnight Plaid - Medium</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0006</ProductCode>
+    <ProductID>37461</ProductID>
+    <ProductName>Board Shorts - Blizzard Plaid - Medium</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0007</ProductCode>
+    <ProductID>37462</ProductID>
+    <ProductName>Board Shorts - Black &amp;amp; White Plaid - Medium</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0008</ProductCode>
+    <ProductID>37463</ProductID>
+    <ProductName>Board Shorts - Multicolor Plaid - Medium</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0009</ProductCode>
+    <ProductID>37464</ProductID>
+    <ProductName>Board Shorts - Midnight Plaid - Small</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0010</ProductCode>
+    <ProductID>37465</ProductID>
+    <ProductName>Board Shorts - Blizzard Plaid - Small</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 12:07:00 PM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0011</ProductCode>
+    <ProductID>37466</ProductID>
+    <ProductName>Board Shorts - Black &amp;amp; White Plaid - Small</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>N</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>MW-BShorts</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:42:00 AM</LastModified>
+    <Photos_Cloned_From>MW-BShorts</Photos_Cloned_From>
+    <ProductCode>MW-BShorts-0012</ProductCode>
+    <ProductID>37467</ProductID>
+    <ProductName>Board Shorts - Multicolor Plaid - Small</ProductName>
+    <ProductDescription>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.&lt;br&gt;&lt;br&gt;&lt;span style="font-weight: bold;"&gt;Size Chart:&lt;/span&gt;&lt;br&gt;&lt;br&gt;
+
+      &lt;table style="width: 414px; height: 74px; text-align: left; margin-left: auto; margin-right: auto;" class="box"&gt;
+      &lt;tbody&gt;
+      &lt;tr align="center"
+      &lt;td style="background-color:#939186; color: #fff;" class="first_title"&gt;Australia&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color: #fff;"&gt;31W&lt;/td&gt;
+
+      &lt;td style="background-color:#939186; color:#fff;"&gt;32W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;40W&lt;/td&gt;
+      &lt;td style="background-color:#939186; color:#fff;"&gt;41W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr align="center"&gt;
+      &lt;td style="background-color:#7e7c73;color: #fff;" class="first_title"&gt;United States&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;28W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;30W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;31W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;32W&lt;/td&gt;
+
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;33W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;34W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #7e7c73;color: #fff;"&gt;40W&lt;/td&gt;
+      &lt;/tr&gt;
+
+      &lt;tr class="last"&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;" class="first_title"&gt;Europe&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;36W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;38W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;39W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;40.5W&lt;/td&gt;
+
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;42W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;43W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;46W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;48W&lt;/td&gt;
+      &lt;td style="background-color: #5c5a53; color: #fff; text-align: center;"&gt;51W&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;/tbody&gt;&lt;/table&gt;
+      &lt;!-- start MEN's fit guide --&gt;</ProductDescription>
+    <ProductDescriptionShort>Shred some waves!  These stylish board shorts use the latest stretch material technology for optimal performance.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>36.0000</ProductPrice>
+    <ProductWeight>1.5</ProductWeight>
+    <warehouses />
+    <TechSpecs>90% polyester / 10% Elastane microsuede board shorts
+      Outseam: 23" on 32" waist size; others graded for size
+      Back pocket with drain hole and zip closure
+      Fit: Regular</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:49:00 AM</LastModified>
+    <ProductCode>ms-patent leather shoe</ProductCode>
+    <ProductID>37492</ProductID>
+    <ProductName>Patent Dress Shoe</ProductName>
+    <ProductDescription>Put on your dancing shoes!  Get inspired to cut a rug with these sleek leather dress shoes.  The patent leather finish and embossed details make these suave shoes the best accessory to any outfit.</ProductDescription>
+    <ProductDescriptionShort>Put on your dancing shoes!  Get inspired to cut the rug with these sleek leather dress shoes.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>95.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>ms-patent leather shoe</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:49:00 AM</LastModified>
+    <Photos_Cloned_From>ms-patent leather shoe</Photos_Cloned_From>
+    <ProductCode>ms-patent leather shoe-0001</ProductCode>
+    <ProductID>37493</ProductID>
+    <ProductName>Patent Dress Shoe - 9</ProductName>
+    <ProductDescription>Put on your dancing shoes!  Get inspired to cut a rug with these sleek leather dress shoes.  The patent leather finish and embossed details make these suave shoes the best accessory to any outfit.</ProductDescription>
+    <ProductDescriptionShort>Put on your dancing shoes!  Get inspired to cut the rug with these sleek leather dress shoes.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>95.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>ms-patent leather shoe</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:49:00 AM</LastModified>
+    <Photos_Cloned_From>ms-patent leather shoe</Photos_Cloned_From>
+    <ProductCode>ms-patent leather shoe-0002</ProductCode>
+    <ProductID>37494</ProductID>
+    <ProductName>Patent Dress Shoe - 10</ProductName>
+    <ProductDescription>Put on your dancing shoes!  Get inspired to cut a rug with these sleek leather dress shoes.  The patent leather finish and embossed details make these suave shoes the best accessory to any outfit.</ProductDescription>
+    <ProductDescriptionShort>Put on your dancing shoes!  Get inspired to cut the rug with these sleek leather dress shoes.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>95.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>ms-patent leather shoe</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:49:00 AM</LastModified>
+    <Photos_Cloned_From>ms-patent leather shoe</Photos_Cloned_From>
+    <ProductCode>ms-patent leather shoe-0003</ProductCode>
+    <ProductID>37495</ProductID>
+    <ProductName>Patent Dress Shoe - 11</ProductName>
+    <ProductDescription>Put on your dancing shoes!  Get inspired to cut a rug with these sleek leather dress shoes.  The patent leather finish and embossed details make these suave shoes the best accessory to any outfit.</ProductDescription>
+    <ProductDescriptionShort>Put on your dancing shoes!  Get inspired to cut the rug with these sleek leather dress shoes.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>95.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>ms-patent leather shoe</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/7/2011 11:49:00 AM</LastModified>
+    <Photos_Cloned_From>ms-patent leather shoe</Photos_Cloned_From>
+    <ProductCode>ms-patent leather shoe-0004</ProductCode>
+    <ProductID>37496</ProductID>
+    <ProductName>Patent Dress Shoe - 12</ProductName>
+    <ProductDescription>Put on your dancing shoes!  Get inspired to cut a rug with these sleek leather dress shoes.  The patent leather finish and embossed details make these suave shoes the best accessory to any outfit.</ProductDescription>
+    <ProductDescriptionShort>Put on your dancing shoes!  Get inspired to cut the rug with these sleek leather dress shoes.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>95.0000</ProductPrice>
+    <ProductWeight>5</ProductWeight>
+    <warehouses />
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 9:44:00 AM</LastModified>
+    <ProductCode>mt-cardigan</ProductCode>
+    <ProductID>37500</ProductID>
+    <ProductName>Collegiate Cardigan</ProductName>
+    <ProductDescription>Preppy is the new cool! Keep warm with this stylish wool cardigan.  The clean lines and cool colors will spruce up any outfit.</ProductDescription>
+    <ProductDescriptionShort>Preppy is the new cool! Keep warm with this stylish wool cardigan.</ProductDescriptionShort>
+    <Additional_Handling_Indicator>N</Additional_Handling_Indicator>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <EnableMultiChildAddToCart>N</EnableMultiChildAddToCart>
+    <EnableOptions_InventoryControl>Y</EnableOptions_InventoryControl>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <Oversized>N</Oversized>
+    <ProductPrice>42.0000</ProductPrice>
+    <ProductWeight>0.75</ProductWeight>
+    <Reward_Points_Given_For_Purchase>10</Reward_Points_Given_For_Purchase>
+    <Ships_By_Itself>N</Ships_By_Itself>
+    <warehouses />
+    <TechSpecs>80% Wool
+      20% Cashmere
+      Hand Wash Cold
+      Lay Flat to Dry
+      Dry Clean Preferred</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>mt-cardigan</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 9:36:00 AM</LastModified>
+    <Photos_Cloned_From>mt-cardigan</Photos_Cloned_From>
+    <ProductCode>mt-cardigan-0001</ProductCode>
+    <ProductID>37501</ProductID>
+    <ProductName>Collegiate Cardigan - Large</ProductName>
+    <ProductDescription>Preppy is the new cool! Keep warm with this stylish wool cardigan.  The clean lines and cool colors will spruce up any outfit.</ProductDescription>
+    <ProductDescriptionShort>Preppy is the new cool! Keep warm with this stylish wool cardigan.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>42.0000</ProductPrice>
+    <ProductWeight>0.75</ProductWeight>
+    <warehouses />
+    <TechSpecs>80% Wool
+      20% Cashmere
+      Hand Wash Cold
+      Lay Flat to Dry
+      Dry Clean Preferred</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>mt-cardigan</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 9:36:00 AM</LastModified>
+    <Photos_Cloned_From>mt-cardigan</Photos_Cloned_From>
+    <ProductCode>mt-cardigan-0002</ProductCode>
+    <ProductID>37502</ProductID>
+    <ProductName>Collegiate Cardigan - Medium</ProductName>
+    <ProductDescription>Preppy is the new cool! Keep warm with this stylish wool cardigan.  The clean lines and cool colors will spruce up any outfit.</ProductDescription>
+    <ProductDescriptionShort>Preppy is the new cool! Keep warm with this stylish wool cardigan.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>42.0000</ProductPrice>
+    <ProductWeight>0.75</ProductWeight>
+    <warehouses />
+    <TechSpecs>80% Wool
+      20% Cashmere
+      Hand Wash Cold
+      Lay Flat to Dry
+      Dry Clean Preferred</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>mt-cardigan</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 9:36:00 AM</LastModified>
+    <Photos_Cloned_From>mt-cardigan</Photos_Cloned_From>
+    <ProductCode>mt-cardigan-0003</ProductCode>
+    <ProductID>37503</ProductID>
+    <ProductName>Collegiate Cardigan - Small</ProductName>
+    <ProductDescription>Preppy is the new cool! Keep warm with this stylish wool cardigan.  The clean lines and cool colors will spruce up any outfit.</ProductDescription>
+    <ProductDescriptionShort>Preppy is the new cool! Keep warm with this stylish wool cardigan.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>42.0000</ProductPrice>
+    <ProductWeight>0.75</ProductWeight>
+    <warehouses />
+    <TechSpecs>80% Wool
+      20% Cashmere
+      Hand Wash Cold
+      Lay Flat to Dry
+      Dry Clean Preferred</TechSpecs>
+  </Products>
+  <Products>
+    <AutoDropShip>N</AutoDropShip>
+    <DoNotAllowBackOrders>N</DoNotAllowBackOrders>
+    <HideProduct>Y</HideProduct>
+    <IsChildOfProductCode>mt-cardigan</IsChildOfProductCode>
+    <LastModBy>1</LastModBy>
+    <LastModified>7/5/2011 9:36:00 AM</LastModified>
+    <Photos_Cloned_From>mt-cardigan</Photos_Cloned_From>
+    <ProductCode>mt-cardigan-0004</ProductCode>
+    <ProductID>37504</ProductID>
+    <ProductName>Collegiate Cardigan - X-Large</ProductName>
+    <ProductDescription>Preppy is the new cool! Keep warm with this stylish wool cardigan.  The clean lines and cool colors will spruce up any outfit.</ProductDescription>
+    <ProductDescriptionShort>Preppy is the new cool! Keep warm with this stylish wool cardigan.</ProductDescriptionShort>
+    <AddToPO_Now>N</AddToPO_Now>
+    <AllowPriceEdit>N</AllowPriceEdit>
+    <FreeShippingItem>Y</FreeShippingItem>
+    <Hide_FreeAccessories>N</Hide_FreeAccessories>
+    <Hide_When_OutOfStock>N</Hide_When_OutOfStock>
+    <Hide_YouSave>N</Hide_YouSave>
+    <ProductPrice>42.0000</ProductPrice>
+    <ProductWeight>0.75</ProductWeight>
+    <warehouses />
+    <TechSpecs>80% Wool
+      20% Cashmere
+      Hand Wash Cold
+      Lay Flat to Dry
+      Dry Clean Preferred</TechSpecs>
+  </Products>
+</xmldata>
