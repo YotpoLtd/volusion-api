@@ -58,6 +58,6 @@ module Volusion
         else
           raise Error::InvalidSelectArgument
         end
-      end
     end
+  end
 end

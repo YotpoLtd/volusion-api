@@ -74,19 +74,43 @@ module Volusion
 
 
       return case response
-               when Net::HTTPSuccess, Net::HTTPRedirection
-                 raise Error::InvalidCredentials if response.body.empty?
-                 xml_result = MultiXml.parse(response.body)
-                 xml_result ? xml_result["xmldata"] : nil
-               else
-                 false
-             end
+        when Net::HTTPSuccess, Net::HTTPRedirection
+          raise Error::InvalidCredentials if response.body.empty?
+          xml_result = MultiXml.parse(response.body)
+          return fix_hash xml_result
+        else
+         false
+        end
     end
 
     def hash_to_params(hash)
       return nil if hash.nil? || hash.empty?
       return hash.map {|pair| pair.join("=")}.join("&")
+    end
 
+    private
+
+    #make sure products/orders/customers is an array of hashes even if only one result
+    def fix_hash(xml_result)
+      return nil if xml_result.nil? or (xml_result.class != Hash) or xml_result["xmldata"].nil?
+      hash = xml_result["xmldata"]
+
+      key = hash.keys.first
+      hash[key] = to_arr_if_needed hash[key]
+
+      #fix same issue for orderDetails if more then one product for order
+      if key == "Orders"
+        hash["Orders"].each do |order|
+          if order["OrderDetails"]
+            order["OrderDetails"] = to_arr_if_needed order["OrderDetails"]
+          end
+        end
+      end
+      return hash
+    end
+
+    def to_arr_if_needed(obj)
+      return (obj.class == Array) ? obj : [obj]
     end
   end
 
