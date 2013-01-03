@@ -1,5 +1,5 @@
-BigCommerce API V2 - Ruby Client
-================================
+Volusion API - Ruby Client
+==========================
 
 This library provides a wrapper around the Volusion REST API for use within
 Ruby apps or via the console.
