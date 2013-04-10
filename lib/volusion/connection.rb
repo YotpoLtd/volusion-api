@@ -65,13 +65,7 @@ module Volusion
       request.add_field 'Accept', 'application/xml'
       request.add_field 'Content-Type', 'application/xml'
 
-      response = nil
-      begin
-        response = http.request(request)
-      rescue
-        raise Error::ConnectionError
-      end
-
+      response = http.request(request)
 
       return case response
         when Net::HTTPSuccess, Net::HTTPRedirection
