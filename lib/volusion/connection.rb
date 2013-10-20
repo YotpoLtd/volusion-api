@@ -69,7 +69,7 @@ module Volusion
 
       return case response
         when Net::HTTPSuccess, Net::HTTPRedirection
-          raise Error::InvalidCredentials if response.body.empty?
+          raise Error::InvalidCredentials if response.body.to_s.empty?
           xml_result = MultiXml.parse(response.body)
           return fix_hash xml_result
         else
