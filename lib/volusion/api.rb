@@ -31,7 +31,7 @@ module Volusion
     end
 
     def get_custom_orders(params = {})
-      data = @connection.get('/v/orders.asp', params)
+      data = @connection.get('/v/yotpo/orders.asp', params)
       return data unless data
 
       # fix orders to have products as an array

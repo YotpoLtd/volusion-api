@@ -6,8 +6,8 @@ module FakeWeb
   valid_ping_url = "http://example.volusion.com/net/WebService.aspx?EDI_Name=Generic%5CProducts&SELECT_Columns=*&WHERE_Column=p.ProductID&WHERE_Value=NULL&Login=volusion@example.com&EncryptedPassword=12345"
   invalid_ping_url = "http://www.invalidstoreurl.com/net/WebService.aspx?EDI_Name=Generic%5CProducts&SELECT_Columns=*&WHERE_Column=p.ProductID&WHERE_Value=NULL&Login=invalid_username&EncryptedPassword=invalid_encrypted_password"
   all_fields_products = "http://example.volusion.com/net/WebService.aspx?EDI_Name=Generic%5CProducts&SELECT_Columns=*&Login=volusion@example.com&EncryptedPassword=12345"
-  invalid_custom_orders_url = 'http://www.invalidstoreurl.com/v/orders.asp?Login=invalid_username&EncryptedPassword=invalid_encrypted_password'
-  valid_custom_orders_url = 'http://example.volusion.com/v/orders.asp?Login=volusion@example.com&EncryptedPassword=12345'
+  invalid_custom_orders_url = 'http://www.invalidstoreurl.com/v/yotpo/orders.asp?Login=invalid_username&EncryptedPassword=invalid_encrypted_password'
+  valid_custom_orders_url = 'http://example.volusion.com/v/yotpo/orders.asp?Login=volusion@example.com&EncryptedPassword=12345'
 
   invalid_request_volusion_result = ""
   xml_empty_result = File.read(File.dirname(__FILE__) + "/fixtures/ping.xml")
