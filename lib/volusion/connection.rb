@@ -34,8 +34,8 @@ module Volusion
     end
 
     def request(method, path, body = nil, params = {})
-
-      url = "#{@configuration[:store_url]}/net/WebService.aspx"
+      path ||= '/net/WebService.aspx'
+      url = "#{@configuration[:store_url]}#{path}"
 
       login_cred = {"Login" => @configuration[:username], "EncryptedPassword" => @configuration[:encrypted_password]}
       params = params.nil? ? login_cred : params.merge(login_cred)

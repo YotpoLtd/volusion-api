@@ -59,4 +59,21 @@ class ApiTest < Test::Unit::TestCase
     end
   end
 
+  def test_get_custom_orders_returns_false_if_customization_missed
+    api = Volusion::Api.new({
+      store_url: 'http://www.invalidstoreurl.com',
+      username: 'invalid_username',
+      encrypted_password: 'invalid_encrypted_password'
+    })
+
+    assert_equal false, api.get_custom_orders
+  end
+
+  def test_get_custom_orders_returns_orders_from_custom_api
+    orders = @volusion_api.get_custom_orders['Orders']
+
+    assert_not_nil orders
+    assert_equal 6, orders.length
+  end
+
 end

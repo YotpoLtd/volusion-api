@@ -30,6 +30,21 @@ module Volusion
       return get_products ({:conditions => {"p.ProductID" => "NULL"}})
     end
 
+    def get_custom_orders(params = {})
+      data = @connection.get('/v/orders.asp', params)
+      return data unless data
+
+      # fix orders to have products as an array
+      orders = {}
+      product_attributes = %w(ProductID ProductCode)
+      data['Orders'].each do |order|
+        id = order['OrderID']
+        orders[id] ||= order.select { |key, value| !product_attributes.include?(key) }
+        (orders[id]['OrderDetails'] ||= []) << order.select { |key, value| product_attributes.include?(key) }
+      end
+
+      { 'Orders' => orders.values }
+    end
 
     private
 
