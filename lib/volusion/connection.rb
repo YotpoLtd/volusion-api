@@ -43,9 +43,9 @@ module Volusion
       param_string = hash_to_params(params) unless params.nil? || params.empty?
 
       unless (param_string.nil? || param_string.empty?)
-        uri = URI.parse(URI.escape("#{url}?#{param_string}"))
+        uri = URI.parse("#{url}?#{param_string}")
       else
-        uri = URI.parse(URI.escape(url))
+        uri = URI.parse(url)
       end
 
       http = Net::HTTP.new(uri.host, uri.port)
